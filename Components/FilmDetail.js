@@ -89,7 +89,7 @@ const styles = StyleSheet.create({
     flex: 1
   },
   image: {
-    height: 100,
+    height: 300,
     margin: 5
   },
   title_text: {
